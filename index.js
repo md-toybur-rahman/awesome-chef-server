@@ -8,8 +8,6 @@ const cors = require('cors');
 
 app.use(cors());
 
-// https://awesome-chef-server-md-toybur-rahman.vercel.app/
-
 app.get('/', (req, res) => {
     res.send("Awesome Chef is Running");
 });
@@ -25,9 +23,9 @@ app.get('/chef/:id', (req, res) => {
     res.send(selectedChef);
 })
 
-app.get('/chef/:country', (req, res) => {
+app.get('/:country', (req, res) => {
     const country = req.params.country;
-    const selectedCountry = chef.filter(n => n.country == country);
+    const selectedCountry = chef.filter(a => a.country.toLowerCase() == country);
     res.send(selectedCountry);
 })
 
