@@ -198,30 +198,5 @@
             }
         ],
         "likes": 14000
-    },
-    {
-        "id": 9,
-        "picture": "https://images.unsplash.com/photo-1528892952291-009c663ce843?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=644&q=80",
-        "name": "David Kim",
-        "experience": "5 years",
-        "description": "David is a Korean-American chef known for his delicious and authentic Korean cuisine.",
-        "recipes": [
-            {
-                "recipe_name": "Bibimbap",
-                "description": "A Korean rice bowl topped with vegetables, beef, and a fried egg.",
-                "image_url": "https://recipetineats.com/wp-content/uploads/2019/05/Bibimbap_3.jpg"
-            },
-            {
-                "recipe_name": "Kimchi Fried Rice",
-                "description": "Fried rice made with kimchi, bacon, and eggs.",
-                "image_url": "https://takestwoeggs.com/wp-content/uploads/2022/03/Kimchi-Fried-Rice-Kimchi-bokkeumbap-takestwoeggs-final-photography-sq.jpg"
-            },
-            {
-                "recipe_name": "Korean Fried Chicken",
-                "description": "Crispy fried chicken glazed in a sweet and spicy sauce.",
-                "image_url": "https://www.kitchensanctuary.com/wp-content/uploads/2019/08/Korean-Fried-Chicken-square-FS-New-7377.jpg"
-            }
-        ],
-        "likes": 12000
     }
 ]
