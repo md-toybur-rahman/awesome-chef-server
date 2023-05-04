@@ -2,6 +2,7 @@ const express = require('express');
 const app = express();
 const port = process.env.PORT || 7000;
 const chef = require('./data/chef.json');
+const service = require('./data/services.json')
 
 const cors = require('cors');
 
@@ -22,6 +23,10 @@ app.get('/chef/:id', (req, res) => {
     const id = req.params.id;
     const selectedChef = chef.find(n => n.id == id);
     res.send(selectedChef);
+})
+
+app.get('/service', (req, res) => {
+    res.send(service);
 })
 
 app.listen(port, () => {

@@ -1,0 +1,17 @@
+[
+    {
+        "id": "01",
+        "service_name": "Fresh Products",
+        "description": "Orci ac auctor augue mauris augue. Tortor id aliquet lectus proin nibh nisl condimentum id."
+    },
+    {
+        "id": "02",
+        "service_name": "Skilled Chefs",
+        "description": "Nulla facilisi cras fermentum odio eu feugiat pretium. Viverra nam libero justo laoreet sit."
+    },
+    {
+        "id": "03",
+        "service_name": "Best Bar",
+        "description": "Sagittis id consectetur purus ut faucibus pulvinar. Sed vulputate odio ut enim."
+    }
+]
