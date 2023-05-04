@@ -7,17 +7,17 @@
         "description": "Elena is a Mexican-American chef known for her traditional Mexican dishes with a modern twist.",
         "recipes": [
             {
-                "recife_name": "Paella",
+                "recipe_name": "Paella",
                 "description": "A Spanish rice dish made with saffron, chicken, and seafood.",
                 "image_url": "https://media.istockphoto.com/id/1080939000/photo/close-up-of-the-paella-with-seadfood.jpg?s=612x612&w=0&k=20&c=lwRQ5mnp6qwkrcQyn87DeLX4Nq0FDLXX9VxqQei1CyM="
             },
             {
-                "recife_name": "Tacos al Pastor",
+                "recipe_name": "Tacos al Pastor",
                 "description": "Tacos made with marinated pork and pineapple.",
                 "image_url": "https://www.seriouseats.com/thmb/4kbwN13BlZnZ3EywrtG2AzCKuYs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20210712-tacos-al-pastor-melissa-hom-seriouseats-37-f72cdd02c9574bceb1eef1c8a23b76ed.jpg"
             },
             {
-                "recife_name": "Arroz con Pollo",
+                "recipe_name": "Arroz con Pollo",
                 "description": "A classic Mexican dish made with rice and chicken.",
                 "image_url": "https://www.onceuponachef.com/images/2023/03/arroz-con-pollo.jpg"
             }
@@ -32,17 +32,17 @@
         "description": "David is a Korean-American chef known for his delicious and authentic Korean cuisine.",
         "recipes": [
             {
-                "recife_name": "Bibimbap",
+                "recipe_name": "Bibimbap",
                 "description": "A Korean rice bowl topped with vegetables, beef, and a fried egg.",
                 "image_url": "https://recipetineats.com/wp-content/uploads/2019/05/Bibimbap_3.jpg"
             },
             {
-                "recife_name": "Kimchi Fried Rice",
+                "recipe_name": "Kimchi Fried Rice",
                 "description": "Fried rice made with kimchi, bacon, and eggs.",
                 "image_url": "https://takestwoeggs.com/wp-content/uploads/2022/03/Kimchi-Fried-Rice-Kimchi-bokkeumbap-takestwoeggs-final-photography-sq.jpg"
             },
             {
-                "recife_name": "Korean Fried Chicken",
+                "recipe_name": "Korean Fried Chicken",
                 "description": "Crispy fried chicken glazed in a sweet and spicy sauce.",
                 "image_url": "https://www.kitchensanctuary.com/wp-content/uploads/2019/08/Korean-Fried-Chicken-square-FS-New-7377.jpg"
             }
@@ -57,17 +57,17 @@
         "description": "Marie is a French chef known for her exquisite French cuisine and desserts.",
         "recipes": [
             {
-                "recife_name": "Coq au Vin",
+                "recipe_name": "Coq au Vin",
                 "description": "Chicken braised in red wine with mushrooms and bacon.",
                 "image_url": "https://www.foodnetwork.com/content/dam/images/food/fullset/2008/2/1/0/IG1005_Coq_Au_Vin_s4x3.jpg"
             },
             {
-                "recife_name": "Ratatouille",
+                "recipe_name": "Ratatouille",
                 "description": "A French vegetable stew made with eggplant, zucchini, and bell peppers.",
                 "image_url": "https://media.chefdehome.com/740/0/0/ratatouille/ratatouille-casserole.jpg"
             },
             {
-                "recife_name": "Crème Brûlée",
+                "recipe_name": "Crème Brûlée",
                 "description": "A classic French dessert made with custard and a caramelized sugar topping.",
                 "image_url": "https://www.recipetineats.com/wp-content/uploads/2016/09/Creme-Brulee_8-SQ.jpg"
             }
@@ -82,17 +82,17 @@
         "description": "Hiroshi is a Japanese chef known for his authentic and traditional Japanese cuisine.",
         "recipes": [
             {
-                "recife_name": "Sushi",
+                "recipe_name": "Sushi",
                 "description": "A traditional Japanese dish made with vinegared rice and various toppings such as raw fish, seafood, and vegetables.",
                 "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/01/Sushi-Rolls-Maki-Sushi-%E2%80%93-Hosomaki-1106-II.jpg"
             },
             {
-                "recife_name": "Ramen",
+                "recipe_name": "Ramen",
                 "description": "A popular Japanese noodle soup dish served with various toppings such as sliced pork, eggs, and vegetables.",
                 "image_url": "https://static8.orstatic.com/userphoto/photo/F/C6F/02ELP74A088B3AC9DF5A4Dpx.jpg"
             },
             {
-                "recife_name": "Yakitori",
+                "recipe_name": "Yakitori",
                 "description": "Skewered and grilled chicken served with a variety of sauces.",
                 "image_url": "https://www.justonecookbook.com/wp-content/uploads/2020/06/Yakitori-6177-I-500x500.jpg"
             }
@@ -107,17 +107,17 @@
         "description": "Giovanni is an Italian chef known for his delicious and authentic Italian cuisine.",
         "recipes": [
             {
-                "recife_name": "Spaghetti Carbonara",
+                "recipe_name": "Spaghetti Carbonara",
                 "description": "Pasta with a creamy sauce made with eggs, cheese, and bacon.",
                 "image_url": "https://s23209.pcdn.co/wp-content/uploads/2014/03/IMG_2626edit.jpg"
             },
             {
-                "recife_name": "Margherita Pizza",
+                "recipe_name": "Margherita Pizza",
                 "description": "A classic Italian pizza topped with tomato sauce, mozzarella cheese, and basil.",
                 "image_url": "https://cookieandkate.com/images/2021/07/classic-margherita-pizza.jpg"
             },
             {
-                "recife_name": "Tiramisu",
+                "recipe_name": "Tiramisu",
                 "description": "An Italian dessert made with layers of ladyfingers, mascarpone cheese, and espresso.",
                 "image_url": "https://sallysbakingaddiction.com/wp-content/uploads/2019/06/homemade-tiramisu-2.jpg"
             }
@@ -132,17 +132,17 @@
         "description": "Maria is a Mexican chef known for her delicious and traditional Mexican dishes.",
         "recipes": [
             {
-                "recife_name": "Tamales",
+                "recipe_name": "Tamales",
                 "description": "Corn husks filled with masa and various fillings such as pork, chicken, and vegetables.",
                 "image_url": "https://4sonrus.com/wp-content/uploads/2020/10/pork-tamales-6-1-scaled.jpg"
             },
             {
-                "recife_name": "Chiles Rellenos",
+                "recipe_name": "Chiles Rellenos",
                 "description": "Stuffed and fried poblano peppers filled with cheese, ground beef, or vegetables.",
                 "image_url": "https://tideandthyme.com/wp-content/uploads/2012/06/chilerellano21.jpg"
             },
             {
-                "recife_name": "Churros",
+                "recipe_name": "Churros",
                 "description": "Fried dough pastry sprinkled with cinnamon sugar and served with chocolate sauce.",
                 "image_url": "https://www.recipetineats.com/wp-content/uploads/2016/08/Churros_9-SQ.jpg"
             }
@@ -157,17 +157,17 @@
         "description": "David is a Korean-American chef known for his delicious and authentic Korean cuisine.",
         "recipes": [
             {
-                "recife_name": "Bibimbap",
+                "recipe_name": "Bibimbap",
                 "description": "A Korean rice bowl topped with vegetables, beef, and a fried egg.",
                 "image_url": "https://recipetineats.com/wp-content/uploads/2019/05/Bibimbap_3.jpg"
             },
             {
-                "recife_name": "Kimchi Fried Rice",
+                "recipe_name": "Kimchi Fried Rice",
                 "description": "Fried rice made with kimchi, bacon, and eggs.",
                 "image_url": "https://takestwoeggs.com/wp-content/uploads/2022/03/Kimchi-Fried-Rice-Kimchi-bokkeumbap-takestwoeggs-final-photography-sq.jpg"
             },
             {
-                "recife_name": "Korean Fried Chicken",
+                "recipe_name": "Korean Fried Chicken",
                 "description": "Crispy fried chicken glazed in a sweet and spicy sauce.",
                 "image_url": "https://www.kitchensanctuary.com/wp-content/uploads/2019/08/Korean-Fried-Chicken-square-FS-New-7377.jpg"
             }
@@ -182,21 +182,46 @@
         "description": "Giovanni is an Italian chef known for his delicious and authentic Italian cuisine.",
         "recipes": [
             {
-                "recife_name": "Spaghetti Carbonara",
+                "recipe_name": "Spaghetti Carbonara",
                 "description": "Pasta with a creamy sauce made with eggs, cheese, and bacon.",
                 "image_url": "https://s23209.pcdn.co/wp-content/uploads/2014/03/IMG_2626edit.jpg"
             },
             {
-                "recife_name": "Margherita Pizza",
+                "recipe_name": "Margherita Pizza",
                 "description": "A classic Italian pizza topped with tomato sauce, mozzarella cheese, and basil.",
                 "image_url": "https://cookieandkate.com/images/2021/07/classic-margherita-pizza.jpg"
             },
             {
-                "recife_name": "Tiramisu",
+                "recipe_name": "Tiramisu",
                 "description": "An Italian dessert made with layers of ladyfingers, mascarpone cheese, and espresso.",
                 "image_url": "https://sallysbakingaddiction.com/wp-content/uploads/2019/06/homemade-tiramisu-2.jpg"
             }
         ],
         "likes": 14000
+    },
+    {
+        "id": 9,
+        "picture": "https://images.unsplash.com/photo-1528892952291-009c663ce843?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=644&q=80",
+        "name": "David Kim",
+        "experience": "5 years",
+        "description": "David is a Korean-American chef known for his delicious and authentic Korean cuisine.",
+        "recipes": [
+            {
+                "recipe_name": "Bibimbap",
+                "description": "A Korean rice bowl topped with vegetables, beef, and a fried egg.",
+                "image_url": "https://recipetineats.com/wp-content/uploads/2019/05/Bibimbap_3.jpg"
+            },
+            {
+                "recipe_name": "Kimchi Fried Rice",
+                "description": "Fried rice made with kimchi, bacon, and eggs.",
+                "image_url": "https://takestwoeggs.com/wp-content/uploads/2022/03/Kimchi-Fried-Rice-Kimchi-bokkeumbap-takestwoeggs-final-photography-sq.jpg"
+            },
+            {
+                "recipe_name": "Korean Fried Chicken",
+                "description": "Crispy fried chicken glazed in a sweet and spicy sauce.",
+                "image_url": "https://www.kitchensanctuary.com/wp-content/uploads/2019/08/Korean-Fried-Chicken-square-FS-New-7377.jpg"
+            }
+        ],
+        "likes": 12000
     }
 ]
