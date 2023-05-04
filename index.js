@@ -25,6 +25,12 @@ app.get('/chef/:id', (req, res) => {
     res.send(selectedChef);
 })
 
+app.get('/chef/:country', (req, res) => {
+    const country = req.params.country;
+    const selectedCountry = chef.filter(n => n.country == country);
+    res.send(selectedCountry);
+})
+
 app.get('/service', (req, res) => {
     res.send(service);
 })
