@@ -17,6 +17,10 @@ app.get('/chef', (req, res) => {
     res.send(chef);
 })
 
+app.get('/service', (req, res) => {
+    res.send(service);
+})
+
 app.get('/chef/:id', (req, res) => {
     const id = req.params.id;
     const selectedChef = chef.find(n => n.id == id);
@@ -29,9 +33,6 @@ app.get('/:country', (req, res) => {
     res.send(selectedCountry);
 })
 
-app.get('/service', (req, res) => {
-    res.send(service);
-})
 
 app.listen(port, () => {
     console.log(`port no is: ${port}`)
